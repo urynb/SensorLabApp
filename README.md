@@ -7,8 +7,8 @@ By default, the app uses the **light sensor**.  Pressing the button provided wil
 Your task is to edit the code in MainActivity.kt such that the app takes a reading from the **accelerometer** sensor instead.
 
 The segments of code you need to modify are marked out by comments:
- // Modify this
- // details~
+ - // Modify this
+ - // details~
 
  ## Step-by-Step Installation Guide for Students
 
