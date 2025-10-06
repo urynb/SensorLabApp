@@ -10,7 +10,7 @@ The segments of code you need to modify are marked out by comments:
  // Modify this
  // details~
 
- ## Step-by-Step Installation Guide for Students**
+ ## Step-by-Step Installation Guide for Students
 
 ### **Prerequisites**
 - Android Studio (latest stable version)
