@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
     private lateinit var outputText: TextView
     private lateinit var Button1: Button
 
+    // Modify this
     // relevant variables for the light sensor -
     // you may need to change the type of these
     private var lightSensor: Sensor? = null
@@ -46,7 +47,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         checkLocationPermission()
 
 
-        // modify the code from here ~ to follow the lab
+        // Modify this ~ to follow the lab
         // you need to convert this app from taking readings from the light sensor
         // to taking readings from the accelerometer
         // the light sensor only has 1 output (light in lux)
@@ -121,6 +122,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
         }
     }
 
+    // Modify these functions
     // sensor related readings,
     // edit these to follow the lab
 
